@@ -4,7 +4,7 @@ class ApiError extends Error {
     message = "Internal Server Error",
     errors = [],
    
-    statck=""
+    stack=""
   )
   
   {
